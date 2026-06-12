@@ -97,6 +97,8 @@ html, body {
     cursor: pointer;
     transition: .3s;
     text-decoration: none;
+    display: flex;
+    justify-content: space-between; 
 }
 
 .card-link:hover {
